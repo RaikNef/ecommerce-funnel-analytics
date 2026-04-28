@@ -1,0 +1,8 @@
+{
+  "metric": "view_item_to_add_to_cart_user_conversion",
+  "group_A_conversion": 0.5270121278941565,
+  "group_B_conversion": 0.5599214145383105,
+  "relative_uplift_B_vs_A": 0.06244502716788203,
+  "z_statistic": 1.44720791769095,
+  "p_value": 0.14783869966465524
+}

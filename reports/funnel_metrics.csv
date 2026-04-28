@@ -1,0 +1,6 @@
+step,users,step_conversion,overall_conversion
+session_start,2000,1.0,1.0
+view_item,1925,0.9625,0.9625
+add_to_cart,1048,0.54442,0.524
+begin_checkout,719,0.68607,0.3595
+purchase,536,0.74548,0.268

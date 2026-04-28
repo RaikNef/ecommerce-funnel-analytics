@@ -1,0 +1,6 @@
+traffic_source,users,buyers,revenue,conversion_rate,revenue_per_user
+organic_search,676,256,1806344.63,0.3787,2672.11
+direct,329,111,740662.38,0.33739,2251.25
+referral,156,42,252819.06,0.26923,1620.64
+paid_search,485,94,620739.18,0.19381,1279.87
+social,354,33,192231.7,0.09322,543.03
